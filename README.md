@@ -2,8 +2,6 @@
 
 Desarrollo de distintos algoritmos de búsqueda.
 
----
-
 ## Algoritmos implementados:
 
 + Búsqueda en anchura (Breadth First Search)
